@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "122300443748",
+    "firebase_url": "https://cab-service-b5e24-default-rtdb.firebaseio.com",
+    "project_id": "cab-service-b5e24",
+    "storage_bucket": "cab-service-b5e24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122300443748:android:be4d667a74f00e52bec371",
+        "android_client_info": {
+          "package_name": "com.chitkarauniversity.cabservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122300443748-13lthnfd9a4r0s9qch86fc77foubdbar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1MutSKs7brmqOWRULe112f8IwKVHLNiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122300443748-13lthnfd9a4r0s9qch86fc77foubdbar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122300443748:android:b980f006df2555bebec371",
+        "android_client_info": {
+          "package_name": "com.chitkarauniversity.mycabapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122300443748-13lthnfd9a4r0s9qch86fc77foubdbar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1MutSKs7brmqOWRULe112f8IwKVHLNiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122300443748-13lthnfd9a4r0s9qch86fc77foubdbar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

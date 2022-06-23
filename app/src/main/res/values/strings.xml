@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyCabApplication</string>
+    <string-array name="category">
+        <item>Administrator</item>
+        <item>Driver</item>
+        <item>Client</item>
+    </string-array>
+    <string name="title_activity_client_home">ClientHome</string>
+    <string name="title_activity_driver_home">DriverHome</string>
+</resources>

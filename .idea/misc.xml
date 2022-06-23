@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/sahus/AndroidStudioProjects/MyCabApplication/app/src/main/res/drawable/ic_baseline_directions_car_24.xml" value="0.1" />
+        <entry key="..\:/Users/sahus/AndroidStudioProjects/MyCabApplication/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/sahus/AndroidStudioProjects/MyCabApplication/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/sahus/AndroidStudioProjects/MyCabApplication/app/src/main/res/layout/activity_admin_login.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/sahus/AndroidStudioProjects/MyCabApplication/app/src/main/res/layout/activity_calculate_distance_time.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/sahus/AndroidStudioProjects/MyCabApplication/app/src/main/res/layout/activity_client_home.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/sahus/AndroidStudioProjects/MyCabApplication/app/src/main/res/layout/activity_client_home2.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/sahus/AndroidStudioProjects/MyCabApplication/app/src/main/res/layout/activity_client_homes.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/sahus/AndroidStudioProjects/MyCabApplication/app/src/main/res/layout/activity_client_homes2.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/sahus/AndroidStudioProjects/MyCabApplication/app/src/main/res/layout/activity_client_homes3.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/sahus/AndroidStudioProjects/MyCabApplication/app/src/main/res/layout/activity_client_login.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/sahus/AndroidStudioProjects/MyCabApplication/app/src/main/res/layout/activity_client_sign_up.xml" value="0.22" />
+        <entry key="..\:/Users/sahus/AndroidStudioProjects/MyCabApplication/app/src/main/res/layout/activity_distance_time_parser.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/sahus/AndroidStudioProjects/MyCabApplication/app/src/main/res/layout/activity_driver_login.xml" value="0.22" />
+        <entry key="..\:/Users/sahus/AndroidStudioProjects/MyCabApplication/app/src/main/res/layout/activity_driver_sign_up.xml" value="0.22" />
+        <entry key="..\:/Users/sahus/AndroidStudioProjects/MyCabApplication/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

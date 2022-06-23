@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".DriverSignUp">
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Name Here"
+        style="@style/txt"
+        android:id="@+id/driver_signup_txt_name"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Pno Here"
+        style="@style/txt"
+        android:id="@+id/driver_signup_txt_pno"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Password Here"
+        style="@style/txt"
+        android:inputType="textPassword"
+        android:id="@+id/driver_signup_txt_password"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Re-Type Password Here"
+        android:inputType="textPassword"
+        style="@style/txt"
+        android:id="@+id/driver_signup_txt_re_password"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Taxi Number Here"
+        style="@style/txt"
+        android:id="@+id/driver_signup_txt_taxino"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/driver_signup_btn_signup"
+        android:text="SignUp"/>
+</LinearLayout>
